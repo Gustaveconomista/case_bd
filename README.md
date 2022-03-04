@@ -17,10 +17,14 @@ Para esta primeira etapa foram utilizados os comandos dos seguintes pacotes:
 Nesta parte foram utilizados os pacotes:
 * `matplotlib.pyplot`(Geração de gráficos);
 * `seaborn`(Adição de paletas de cores e outros acessórios gráficos)
-E abaixo seguem os gráficos gerados:
-![mapa_ufs](img/map_uf.png)
 
-![grafico_partido](img/graf_partido.png)
+E abaixo seguem os gráficos gerados:
+
+![grafico1](image/grafico1.jpeg)
+
+![grafico2](image/grafico2.jpeg)
+
+![grafico3](image/grafico3.jpeg)
 
 ## Adicional
 Adicionalmente, é possível encontrar os gráficos gerados em modo imagem na subpasta "image".
